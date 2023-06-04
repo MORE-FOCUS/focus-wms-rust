@@ -1,3 +1,3 @@
 # MORE-ADMIN-RUST
-#### RUST实现应用后台管理系统
+#### RUST实现库存管理系统
 
